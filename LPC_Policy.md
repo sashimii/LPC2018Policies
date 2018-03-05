@@ -10,12 +10,12 @@
 - [Canadian Oil & Gas Independence](#canadian-oil--gas-independence)
 - [Decriminalization of Consensual Sex Work and Sex Trade](#decriminalization-of-consensual-sex-work-and-sex-trade)
 - [Employee Pension Protection Strategy](#employee-pension-protection-strategy)
-- [End Taxation on MenstrualProducts](#end-taxation-on-menstrualproducts)
+- [End Taxation on Menstrual Products](#end-taxation-on-menstrual-products)
 - [Endorsing the United Nations Treaty to Ban Nuclear Weapons](#endorsing-the-united-nations-treaty-to-ban-nuclear-weapons)
 - [Environmental Sustainability](#environmental-sustainability)
 - [Implementation of a Guaranteed Minimum Income Model](#implementation-of-a-guaranteed-minimum-income-model)
 - [Inclusion of Mental Health Services in Medicare and the Canada Health Act](#inclusion-of-mental-health-services-in-medicare-and-the-canada-health-act)
-- [IndigenousHealthCareAuditorandIndigenousHealthOmbudsman](#indigenoushealthcareauditorandindigenoushealthombudsman)
+- [Indigenous Health Care Auditor and Indigenous Health Ombudsman](#indigenous-health-care-auditor-and-indigenous-health-ombudsman)
 - [Infrastructure and Connecting Canadians via a Fixed Link](#infrastructure-and-connecting-canadians-via-a-fixed-link)
 - [Leave to Study Program](#leave-to-study-program)
 - [Modernize and Integrate Canada’s Energy Grid](#modernize-and-integrate-canadas-energy-grid)
@@ -45,42 +45,42 @@
 -------------------
 
 ## A Seniors' Ministry
- **WHEREAS** 
- 
+ **WHEREAS**
 
-* Canadian society is aging rapidly and seniors make up almost 16% of our population; this number is expected to grow to 24% by 2030; 
+
+* Canadian society is aging rapidly and seniors make up almost 16% of our population; this number is expected to grow to 24% by 2030;
 
 * this trend will have a profound impact on our health care system, social services, and the economy;
 
-* seniors are a diverse group of individuals with a wide range of capabilities, needs, vulnerabilities and resources; 
+* seniors are a diverse group of individuals with a wide range of capabilities, needs, vulnerabilities and resources;
 
 * seniors, like other Canadians, deserve the highest possible quality of life and personal dignity;
 
-* seniors' issues are currently shared between a number of ministers and government departments, committees, and agencies; 
+* seniors' issues are currently shared between a number of ministers and government departments, committees, and agencies;
 
-* this fragmentation means that seniors do not have a dedicated voice to represent their rights and interests; 
+* this fragmentation means that seniors do not have a dedicated voice to represent their rights and interests;
 
-* the amalgamation of responsibility for seniors under one dedicated minister would result in a clear vision and coordinated approach to seniors' needs, systemic and cost efficiencies, and consistency in program development and implementation across the country; 
+* the amalgamation of responsibility for seniors under one dedicated minister would result in a clear vision and coordinated approach to seniors' needs, systemic and cost efficiencies, and consistency in program development and implementation across the country;
 
-**BE IT RESOLVED** the Liberal Party of Canada strongly urge the Government of Canada to establish a dedicated Ministryof Seniors, with a mandate to: 
+**BE IT RESOLVED** the Liberal Party of Canada strongly urge the Government of Canada to establish a dedicated Ministryof Seniors, with a mandate to:
 
-* consult and engage with Canada's seniors; 
+* consult and engage with Canada's seniors;
 
-* protect and vigorously promote the needs and interests of seniors as well as the value of seniors to civil society; 
+* protect and vigorously promote the needs and interests of seniors as well as the value of seniors to civil society;
 
-* establish a national seniors strategy that defines common goals and standards from coast to coast to coast; 
+* establish a national seniors strategy that defines common goals and standards from coast to coast to coast;
 
 * liaise with provincial, territorial, municipal, and Indigenous counterparts on areas of mutual concern or overlapping jurisdiction including but not limited to health care, housing, income security, home care, long term care, pharmacare, social isolation, elder abuse, and ageism; and
 
 * develop national standards and monitoring protocols for seniors' programs.(Alberta)
 
- ------------------- 
+ -------------------
 
 ## Address the Opioid Crisis through a Public Health Approach
- **WHEREAS** 
- 
+ **WHEREAS**
 
-* almost 3,000 Canadians died from opioid-related causes in 2016, and it is estimated that the number will surpass 3,000 in 2017; 
+
+* almost 3,000 Canadians died from opioid-related causes in 2016, and it is estimated that the number will surpass 3,000 in 2017;
 
 * our Liberal government has restored harm reduction as a key pillar of Canada’s drug strategy, saved lives by passing Bill C-37 and facilitating the approval of more supervised consumption sites, and regulated cannabis as part of our commitment to evidence-based decision-making;
 
@@ -92,13 +92,13 @@
 
 **BE IT RESOLVED**  the Government of Canada should treat drug abuse as a health issue, expand treatment and harm reduction services and re-classify low-level drug possession and consumption as administrative violations.(National Caucus)
 
- ------------------- 
+ -------------------
 
-## Affordable Housing 
- **WHEREAS** 
-  
+## Affordable Housing
+ **WHEREAS**
 
-* residents in Canada have the right to affordable housing, regardless of ethnicity, cultural background, sexual orientation, gender identity and expression, or disability; 
+
+* residents in Canada have the right to affordable housing, regardless of ethnicity, cultural background, sexual orientation, gender identity and expression, or disability;
 
 * students, women, and Indigenous people face particular challenges in finding clean, safe and affordable housing;
 
@@ -108,29 +108,29 @@
 
 * many housing complexes were constructed without fully accessible suites;  
 
-* the building and development industry does not design or engineer residential housing for ready conversion for accessibility inside and outside the residence; 
+* the building and development industry does not design or engineer residential housing for ready conversion for accessibility inside and outside the residence;
 
-* the present federal government has shown great leadership in developing a national housing strategy; 
+* the present federal government has shown great leadership in developing a national housing strategy;
 
-**BE IT RESOLVED** the Liberal Party of Canada urge the Government of Canada to: 
+**BE IT RESOLVED** the Liberal Party of Canada urge the Government of Canada to:
 
 * institute a funding program to modify existing non-market housing complexes to meet current health, safety, and accessibility codes
 
 * support the principle that the total cost of public non-market housing for lower income residents of Canada should not exceed 30% of their gross annual income.   (Alberta)
 
- ------------------- 
+ -------------------
 
 ## Canadian Environmental Bill of Rights
- **WHEREAS** 
- 
+ **WHEREAS**
+
 
 * on June 16, 2010, all Liberal Members of Parliament present in the House of Commons voted in favor of Bill C-469 (40-3), an Act to Establish a Canadian Environmental Bill of Rights, to “safeguard the right of present and future generations of Canadians to a healthy and ecologically balanced environment”;
 
-* in a 2015 report, the International Institute for Sustainable Development calculated poor air quality resulted in the premature death of 7,700 Canadians and smog cost Canada $36 billion; 
+* in a 2015 report, the International Institute for Sustainable Development calculated poor air quality resulted in the premature death of 7,700 Canadians and smog cost Canada $36 billion;
 
-* the United Nations (UN) recognizes environmental rights as a basic human right, and on March 7, 2016, the UN Committee on Economic, Social and Cultural Rights concluded that Canada has failed to provide adequate environmental protection; 
+* the United Nations (UN) recognizes environmental rights as a basic human right, and on March 7, 2016, the UN Committee on Economic, Social and Cultural Rights concluded that Canada has failed to provide adequate environmental protection;
 
-* tens of thousands of synthetic chemicals now contaminate our air, water, soil, food, and homes, with some of those chemicals linked to increasing incidences of certain chronic diseases; 
+* tens of thousands of synthetic chemicals now contaminate our air, water, soil, food, and homes, with some of those chemicals linked to increasing incidences of certain chronic diseases;
 
 * new technologies are being used with few independent, peer-reviewed studies and no transparent, inclusive, in-depth discussion on possible environmental and health impacts;
 
@@ -138,31 +138,31 @@
 
 **BE IT RESOLVED**  the Liberal Party of Canada urge the Government of Canada to enact legislation establishing a Canadian Environmental Bill of Rights, whose purpose is to ensure all Canadians have access to adequate environmental information, justice in an environmental context and effective mechanisms for participating in environmental decision-making in accordance with the provisions of Bill C-469 (40-3).(Women’s Commission)
 
- ------------------- 
+ -------------------
 
-## Canadian Oil & Gas Independence 
- **WHEREAS** 
-  
+## Canadian Oil & Gas Independence
+ **WHEREAS**
 
-* the oil and gas sector is a key industry for Canada and an integral part of national economic growth and job creation; 
 
-* interprovincial pipeline construction presents an opportunity for nation-building and Canadian infrastructure development; 
+* the oil and gas sector is a key industry for Canada and an integral part of national economic growth and job creation;
 
-* Canada imported roughly 759,000 barrels and 736,000 barrels of oil per day, in 2016 and 2015 respectively, despite Canada having among the largest oil and gas reserves in the world, capable of meeting all Canadian oil and gas needs; 
+* interprovincial pipeline construction presents an opportunity for nation-building and Canadian infrastructure development;
 
-* Canadian oil and gas independence would allow Canada to ensure that domestic natural resource extraction and usage would be carried out more efficiently, safely, and sustainably than in countries which export oil and gas to Canada; 
+* Canada imported roughly 759,000 barrels and 736,000 barrels of oil per day, in 2016 and 2015 respectively, despite Canada having among the largest oil and gas reserves in the world, capable of meeting all Canadian oil and gas needs;
 
-**BE IT RESOLVED** the Liberal Party of Canada urge the government to: 
+* Canadian oil and gas independence would allow Canada to ensure that domestic natural resource extraction and usage would be carried out more efficiently, safely, and sustainably than in countries which export oil and gas to Canada;
 
-* implement a strategy for oil and gas independence, with particular attention to:ostrong environmental and safety regulations, and oversight of the oil and gas sectoronational job creation and economic growth; and orespect for the rights and interests of Indigenous Peoples 
+**BE IT RESOLVED** the Liberal Party of Canada urge the government to:
+
+* implement a strategy for oil and gas independence, with particular attention to:ostrong environmental and safety regulations, and oversight of the oil and gas sectoronational job creation and economic growth; and orespect for the rights and interests of Indigenous Peoples
 
 * Consult with all provinces, territories, First Nations, Métis, Inuit, the Federation of Canadian Municipalities, and all other relevant stakeholders in developing acceptable infrastructure and pipelines necessary for oil and gas independence.   (Alberta)
 
- ------------------- 
+ -------------------
 
 ## Decriminalization of Consensual Sex Work and Sex Trade
- **WHEREAS** 
- 
+ **WHEREAS**
+
 
 * the current Protection of Communities and Exploited Persons Act, which prohibits the purchasing of sex, does little to protect sex workers and instead pushes them to work underground and in dangerous conditions;
 
@@ -174,35 +174,35 @@
 
 **BE IT FURTHER RESOLVED** that along with decriminalization the Liberal Party of Canada should look to address the true problems facing sex workers by working to increase their access to sexual health clinics, counseling and improve their relationship with local authorities.(Youth Commission)
 
- ------------------- 
+ -------------------
 
-## Employee Pension Protection Strategy 
- **WHEREAS** 
- 
+## Employee Pension Protection Strategy
+ **WHEREAS**
 
-* some employers have failed to fulfill their commitment to Employee Pension Plans, depriving employees of future retirement income in addition to the loss of part or all their current contributions; 
 
-* private pensions should be the responsibility of the commercial enterprises making the commitment, not the taxpayer; 
+* some employers have failed to fulfill their commitment to Employee Pension Plans, depriving employees of future retirement income in addition to the loss of part or all their current contributions;
 
-* the Companies’ Creditors Arrangement Actand the Bankruptcy and Insolvency Actprovide “super-priority” to numerous obligations over Employee Pension Plans; 
+* private pensions should be the responsibility of the commercial enterprises making the commitment, not the taxpayer;
 
-* the Supreme Court of Canada has favoured the payments of these “super-priority” creditors even at the expense of the original Employee Pension Plan Agreements, giving paramountcy to a flawed insolvency law over any provincial recognition of pension rights; 
+* the Companies’ Creditors Arrangement Actand the Bankruptcy and Insolvency Actprovide “super-priority” to numerous obligations over Employee Pension Plans;
 
-* the previous government, recognizing the unjust treatment some Canadians faced with private defined benefit pensions, granted current year pension contributions super-priority status in the Wage Earner Protection Program; 
+* the Supreme Court of Canada has favoured the payments of these “super-priority” creditors even at the expense of the original Employee Pension Plan Agreements, giving paramountcy to a flawed insolvency law over any provincial recognition of pension rights;
 
-**BE IT RESOLVED** the Liberal Party of Canada urges the Government of Canada to develop and implement an Employee Pension Protection Strategy by: 
+* the previous government, recognizing the unjust treatment some Canadians faced with private defined benefit pensions, granted current year pension contributions super-priority status in the Wage Earner Protection Program;
+
+**BE IT RESOLVED** the Liberal Party of Canada urges the Government of Canada to develop and implement an Employee Pension Protection Strategy by:
 
 * Prioritizing Employee Pension Plans in the Companies’ Creditors Arrangement Actand the Bankruptcy and Insolvency Actto recognize super-priority for pension debts
 
-* Reforming current federal legislation with the aim of protecting Employee Pension Plans during insolvency proceedings. 
+* Reforming current federal legislation with the aim of protecting Employee Pension Plans during insolvency proceedings.
 
 **BE IT FURTHER RESOLVED** the Liberal Party of Canada call upon the Government of Canada to consult with stakeholders, organizations, and third parties in its development of the aforementioned strategy.(Ontario)
 
- ------------------- 
+ -------------------
 
-## End Taxation on MenstrualProducts
- **WHEREAS** 
- 
+## End Taxation on Menstrual Products
+ **WHEREAS**
+
 
 * Menstrual products are essential for person’s wellbeing and a monetary burden should not infringe on their self-autonomy or hinder their ability to buy vital products;
 
@@ -210,13 +210,13 @@
 
 * Revenue for the government has increased despite suppliers being eligible for NAFTA’s tariff-free status because companies from the US choose not to applyfor tariff-freestatus.
 
-**BE IT RESOLVED** the Canadian government pass legislation to remove tariff code taxes off of essential menstrualproducts.(Youth Commission)
+**BE IT RESOLVED** the Canadian government pass legislation to remove tariff code taxes off of essential menstrual products.(Youth Commission)
 
- ------------------- 
+ -------------------
 
 ## Endorsing the United Nations Treaty to Ban Nuclear Weapons
- **WHEREAS** 
- 
+ **WHEREAS**
+
 
 * under Article VI of the Treaty on the Non-Proliferation of Nuclear Weapons (1970), Canada has a solemn obligation, under international law, to press for worldwide elimination of nuclear weapons;
 
@@ -232,11 +232,11 @@
 
 **BE IT RESOLVED** the Liberal Party of Canada urge the Government of Canada, during its current mandate, to sign and ratify the Treaty on the Prohibition of Nuclear Weapons.(Women’s Commission)
 
- ------------------- 
+ -------------------
 
 ## Environmental Sustainability
- **WHEREAS** 
- 
+ **WHEREAS**
+
 
 * senior Registered Liberals across Canada identified through the 2017 SLC PolicyQuestionnaire the need for “government leadership in addressing all aspects ofenvironmental sustainability, including air, water, and land, not just climate change andnot just mitigation” as a priority issue for consideration during the next federal electioncampaign;
 
@@ -254,27 +254,27 @@
 
 * to work urgently with individual, corporate and indigenous stakeholders to identify andimplement new economic development models that better balance environmentalsustainability with economic activity(Seniors Commission)
 
- ------------------- 
+ -------------------
 
 ## Implementation of a Guaranteed Minimum Income Model  
- **WHEREAS** 
-  
+ **WHEREAS**
 
-* almost 5 million Canadians live in poverty; 
+
+* almost 5 million Canadians live in poverty;
 
 * the gap between the highest and lowest incomes continues to grow with each passing year;  
 
 * some economists believe that maintaining growth in industrialized countries requires a narrowing of this gap to stimulate household consumption;  
 
-* technological advances, and in particular advances in artificial intelligence, will lead to the loss of many skilled and unskilled jobs; 
+* technological advances, and in particular advances in artificial intelligence, will lead to the loss of many skilled and unskilled jobs;
 
-* people who lose their jobs will have to retrain, perhaps several times in their lives; 
+* people who lose their jobs will have to retrain, perhaps several times in their lives;
 
 * a guaranteed minimum income would constitute an unconditional source of income, which could be used by everyone as he or she sees fit;  
 
 * according to some studies, the guaranteed minimum income could replace other provincial and federal government benefitsand would require less administrative work, particularly because of the lack of controls;  
 
-* a pilot project on Guaranteed Minimum Income is currently underway in Ontario and a similar project is being considered in Québec and other Canadian provinces; 
+* a pilot project on Guaranteed Minimum Income is currently underway in Ontario and a similar project is being considered in Québec and other Canadian provinces;
 
 * the federal government could intervene in this jurisdiction, as it did for universal health insurance;
 
@@ -286,11 +286,11 @@
 
 * inform and consult with the public on the implementation of this model. (Quebec)
 
- ------------------- 
+ -------------------
 
 ## Inclusion of Mental Health Services in Medicare and the Canada Health Act
- **WHEREAS** 
- 
+ **WHEREAS**
+
 
 * poor mental health places a burden on all Canadians, particularly those living in poverty and/or working in positions with no provision of health care insurance;
 
@@ -312,27 +312,27 @@
 
 **BE IT FURTHER RESOLVED** that a pilot program evaluate the effectiveness of community based partnerships led by mental health and primary care professionals in each region of Canada for up to a 5-year periodwith annual reports to Parliament on effectiveness, cost and outcomes.(Nova Scotia)
 
- ------------------- 
+ -------------------
 
-## IndigenousHealthCareAuditorandIndigenousHealthOmbudsman
- **WHEREAS** 
- 
+## Indigenous Health Care Auditor and Indigenous Health Ombudsman
+ **WHEREAS**
+
 
 * the Truth and Reconciliation Commission Call to Action 19 states: We call upon the federal government, in consultation with Indigenous peoples, to establish measurable goals to identify and close the gaps in health outcomes between Indigenous and non-Indigenous communities, and to publish annual progress reports and assess long-term trends;
 
-* Section 24.2 of the United Nations Declaration on the Rights of Indigenous Peoples state: Indigenous individuals have an equal right to the enjoyment of the highest attainable standard of physical and mental health. States shall take the necessary steps with a view to achieving progressively the full realization of this right. 
+* Section 24.2 of the United Nations Declaration on the Rights of Indigenous Peoples state: Indigenous individuals have an equal right to the enjoyment of the highest attainable standard of physical and mental health. States shall take the necessary steps with a view to achieving progressively the full realization of this right.
 
-**BE IT RESOLVED** the Liberal party of Canada urge the Government of Canada to create: 
+**BE IT RESOLVED** the Liberal party of Canada urge the Government of Canada to create:
 
 * an independent Indigenous Health Care Auditor that reviews and reports toIndigenous peoples and to Parliament on the progress and failures, including health care treatment and health care quality indicators, of the federal government on providing health care services and treatment toIndigenouspeoples;
 
-* an independent nationalIndigenousHealth Care Ombudsman. The ombudsman could respond to unresolved complaints from Indigenous patients, residents and clients about their health care experience at a health sector organization, which includes hospitals, long-term care homes or community and local health centres.(Indigenous Peoples’ Commission)
+* an independent national Indigenous Health Care Ombudsman. The ombudsman could respond to unresolved complaints from Indigenous patients, residents and clients about their health care experience at a health sector organization, which includes hospitals, long-term care homes or community and local health centres.(Indigenous Peoples’ Commission)
 
- ------------------- 
+ -------------------
 
 ## Infrastructure and Connecting Canadians via a Fixed Link
- **WHEREAS** 
-  
+ **WHEREAS**
+
 
 * the Island of Newfoundland depends on ferry service for access to goods and services and travel for visitors to or from the Island;
 
@@ -352,59 +352,59 @@
 
 * such a link would provide ongoing benefits to NL and other provinces along the transit route (e.g., Quebec) from more reliable transportation alternatives and the potential for increased tourism
 
-**BE IT RESOLVED** the Liberal Party of Canada call on the Government of Canada to: 
+**BE IT RESOLVED** the Liberal Party of Canada call on the Government of Canada to:
 
 * fully document the feasibility of such a fixed link, including the attendant economic benefits arising therefrom to the province, the region, and the country, and seek proposals for construction of a fixed link;
 
 * consider all possible funding options, including public-private partnerships, tolls, and direct funding, to achieve this goal(Newfoundland and Labrador)
 
- ------------------- 
+ -------------------
 
-## Leave to Study Program 
- **WHEREAS** 
- 
+## Leave to Study Program
+ **WHEREAS**
+
 
 * the Government of Canada continues to invest in and helps Canadians gain the skills, abilities, and experience needed to find and maintain good employment;  
 
 * the skills needed in our Canadian labour market continue to change and require advancement in literacy, numeracy, and critical thinking skills;
 
-* there should be opportunities for workers to pursue further education and skills training while advancing their careers through employment; 
+* there should be opportunities for workers to pursue further education and skills training while advancing their careers through employment;
 
-* the Office of Literacy and Essential Skills under Employment and Social Development Canada recognizes that literacy and other such skills are needed for Canadians to succeed in their employment and in other walks of life; 
+* the Office of Literacy and Essential Skills under Employment and Social Development Canada recognizes that literacy and other such skills are needed for Canadians to succeed in their employment and in other walks of life;
 
 **BE IT RESOLVED**  the Liberal Party of Canada urge the Government of Canada to establish a “leave to study” program, which may be defined as the option of employees who have been employed with an employer (of a prescribed size) for 12 months to take a leave of absence for further study directly related to their work;  
 
-**BE IT FURTHER RESOLVED** that qualifying applicants to such a program receive financial remuneration through the Employment Insurance program for six months, with or without contribution from the employer; 
+**BE IT FURTHER RESOLVED** that qualifying applicants to such a program receive financial remuneration through the Employment Insurance program for six months, with or without contribution from the employer;
 
-**BE IT FURTHER RESOLVED** that Employment and Social Development Canada shall operate the program under joint agreement with provincial ministries of labour with the goal of advancing the priorities of each province; 
+**BE IT FURTHER RESOLVED** that Employment and Social Development Canada shall operate the program under joint agreement with provincial ministries of labour with the goal of advancing the priorities of each province;
 
 **BE IT FURTHER RESOLVED** that the initiation of such a program may include a pilot program in each or any province or territory under Part V of the Employment Insurance Act. (Ontario)
 
- ------------------- 
+ -------------------
 
 ## Modernize and Integrate Canada’s Energy Grid
- **WHEREAS** 
- 
+ **WHEREAS**
 
-* a modern integrated Canadian energy grid will enable greater energy efficiency, reliability and affordability for Canadians; 
 
-* the creation of a modern Canadian energy grid will be fundamental to supporting Canada’s future clean energy based economy, while also creating immediate jobs needed to complete power-line connections and computerized system upgrades; 
+* a modern integrated Canadian energy grid will enable greater energy efficiency, reliability and affordability for Canadians;
+
+* the creation of a modern Canadian energy grid will be fundamental to supporting Canada’s future clean energy based economy, while also creating immediate jobs needed to complete power-line connections and computerized system upgrades;
 
 * the International Energy Agency has estimated that Canada’s electricity sector will require $250 billion in new investment by 2030;
 
-* a modern integrated Canadian energy grid will enable fossil fuel dependent provinces to transition toward clean energy as a primary energy source; 
+* a modern integrated Canadian energy grid will enable fossil fuel dependent provinces to transition toward clean energy as a primary energy source;
 
 * mass market adoption of electric vehicles is projected within a decade and Canada will require a de-carbonized modern electricity grid to support the transition away from fossil fuel powered vehicles to meet the Paris Agreement on climate change;
 
-* Canada is working closely with European partners to address climate change while modernized energy grids are a proven and fundamental element of the European Union’s energy strategy to reduce costs and meet climate change targets; 
+* Canada is working closely with European partners to address climate change while modernized energy grids are a proven and fundamental element of the European Union’s energy strategy to reduce costs and meet climate change targets;
 
 **BE IT RESOLVED**  the Liberal Party of Canada urge the Government of Canada to promote and commit to the creation of a modern integrated Canadian energy grid.(Manitoba)
 
- ------------------- 
+ -------------------
 
 ## Name Change for “Commissioner”
- **WHEREAS** 
-  
+ **WHEREAS**
+
 
 * the title of “Commissioner” has been commonly (though not exclusively)used by Canada for the Chief Executive Officers of the territorial governments (the role that in the Provinces today is called the “Lieutenant Governor”);
 
@@ -414,23 +414,23 @@
 
 * the territories have mature governments with “administration and control” of the same areas of jurisdiction normally associated with Provinces in Canada (Nunavut is actively working on transfer of lands and resources which have been finished in Yukon and the Northwest Territories);
 
-* the Commissioners have, since the 1980s, been accepted in the “Vice-Regal Club” of the Governor General and Provincial Lieutenant Governors; 
+* the Commissioners have, since the 1980s, been accepted in the “Vice-Regal Club” of the Governor General and Provincial Lieutenant Governors;
 
 * the role of Commissioner is officially described in the Government of Canada publication Commissioners of the Territories(Ottawa, 2000) as “…the commissioner’s role has become more like that of a lieutenant governor of a province”;
 
-* the Commissioners, because of the title, are often confused with the many other Officers of government with “Commissioner” in the title (e.g. Commissioner of Official Languages; Information Commissioner of Canada; Commissioner of Environment and Sustainable Development etc.); 
+* the Commissioners, because of the title, are often confused with the many other Officers of government with “Commissioner” in the title (e.g. Commissioner of Official Languages; Information Commissioner of Canada; Commissioner of Environment and Sustainable Development etc.);
 
 **BE IT RESOLVED** :
 
-* Canada change the title of “Commissioner” to “Territorial Lieutenant Governor” which more appropriately reflects the nature of the Office and the maturity of the territories in the Canadian federation; 
+* Canada change the title of “Commissioner” to “Territorial Lieutenant Governor” which more appropriately reflects the nature of the Office and the maturity of the territories in the Canadian federation;
 
-* this change in title takes place as soon as possible through Prime Ministerial recognition as a working title in advance of legislation that will recognize this name change through amendments to the territorial constitutions: Yukon Act, Northwest Territories Act and Nunavut Act.  (Yukon) 
+* this change in title takes place as soon as possible through Prime Ministerial recognition as a working title in advance of legislation that will recognize this name change through amendments to the territorial constitutions: Yukon Act, Northwest Territories Act and Nunavut Act.  (Yukon)
 
- ------------------- 
+ -------------------
 
 ## National On-Campus Sexual Assault Prevention Strategy
- **WHEREAS** 
- 
+ **WHEREAS**
+
 
 * In 2016 Canadian universities reported that less than 10% of sexual assault complaints were followed by a formal investigation;
 
@@ -440,11 +440,11 @@
 
 **BE IT RESOLVED** the Canadian government create a National On-Campus Sexual Assault Strategy to reduce the percentage of acts of sexual violence on post-secondary campuses, to create a mandatory formal procedure for post-secondary administrations to follow after the initial report of sexual violence, and to work towards ensuring a safe climate for Canadians to earn their education in.(Youth Commission)
 
- ------------------- 
+ -------------------
 
 ## National Three-Oceans Policy for Security,Environmental Protection and Development
- **WHEREAS** 
- 
+ **WHEREAS**
+
 
 * Canada has the longest coastline of any country in the world, fronting on three oceans, and four great lakes;
 
@@ -464,11 +464,11 @@
 
 * for purposes of security, sovereignty and Arctic community development, make full access to telecommunications (internet) capacity a requirement for any trans-Arctic telecommunications cables transiting through Canada's Arctic waters.(Nova Scotia)
 
- ------------------- 
+ -------------------
 
 ## Post-Secondary Education and Labour Market Partnership
- **WHEREAS** 
- 
+ **WHEREAS**
+
 
 * the federal government has access to data pertaining to labour market trends;
 
@@ -478,11 +478,11 @@
 
 **BE IT RESOLVED** the Liberal Party of Canada urges the Government of Canada to adopt a pilot to support Atlantic post-secondary education institutions in partnering with industry and employers to match programming and students with labour market trends and job opportunities in the region.(Nova Scotia)
 
- ------------------- 
+ -------------------
 
 ## Post-Secondary Funding and Economic Development
- **WHEREAS** 
-  
+ **WHEREAS**
+
 
 * an educated labour force is critical for economic development, developing new industries, and creating jobs;
 
@@ -492,31 +492,32 @@
 
 * such diverse industries and sources of employment require specialized skills
 
-**BE IT RESOLVED** the Liberal Party of Canada call on the Government of Canada to: 
+**BE IT RESOLVED** the Liberal Party of Canada call on the Government of Canada to:
 
 * identify potential industries for economicdiversification and identify labour needs for those industries;
 
 * increase support for post-secondary education in areas of identified labour needs(Newfoundland and Labrador)
 
- ------------------- 
+ -------------------
 
 ## Proposal-based Funding to Sustainable Transfer Payments
- **WHEREAS** 
- 
+ **WHEREAS**
 
-* IndigenousPeoplesarethefirsttoinhabitCanadaandhavebeenthevictimsofcolonialism;
 
-* IndigenousPeopleshavetheinherentrighttoself-determination;
+* Indigenous Peoples are the first to inhabit Canada and have been the victims of colonialism;
 
-* IndigenousPeopleshaveguaranteedrightsundersection35oftheconstitution;
+* Indigenous Peoples have the inherent right to self-determination;
 
-* Indigenouscommunitiesrequiresustainable,adequateandpredictablefunding;BEITRESOLVEDtheLiberalPartyofCanadasupporttheendofproposal-basedfundingprogramsforIndigenouscommunities,inexchangeforguaranteedandsustainabletransferpayments.(IndigenousPeoplesCommission)
+* Indigenous Peoples have guaranteed rights under section 35 of the constitution;
 
- ------------------- 
+* Indigenous communities require sustainable, adequate and predictable funding;
+**BE IT RESOLVED** the Liberal Party of Canada support the end of proposal-based funding programs for Indigenous communities, in exchange for guaranteed and sustainable transfer payments.(Indigenous Peoples Commission)
 
-## Protecting Freshwater Resources -Export and Marketing 
- **WHEREAS** 
-  
+ -------------------
+
+## Protecting Freshwater Resources -Export and Marketing
+ **WHEREAS**
+
 
 * water is an essential resource for the lives of Canadians;  
 
@@ -524,25 +525,25 @@
 
 * no federal program outlines export and marketing regulation;  
 
-* the conservation of the' natural water' resource is enshrined in the Canada Water Resources Act, but the export and marketing of freshwater remains a gap in discussions on international agreements, pacts or treaties; 
+* the conservation of the' natural water' resource is enshrined in the Canada Water Resources Act, but the export and marketing of freshwater remains a gap in discussions on international agreements, pacts or treaties;
 
 * the management of border resources must be based on agreements between the various levels of government of each member country to determine the non-market value of water and ensure that it is not exported for profit between the Boundary Waters Treaty (BWT) countries;  
 
-* the federal government recognizes the authority of the provinces and municipalities to manage aquatic resources; 
+* the federal government recognizes the authority of the provinces and municipalities to manage aquatic resources;
 
-* several world organizations predict that by 2025 some 34 countries will run out of water; 
+* several world organizations predict that by 2025 some 34 countries will run out of water;
 
-* there will be strong pressure in the coming years to export water to countries experiencing drought and a lack of drinking water (United States and the Middle East). 
+* there will be strong pressure in the coming years to export water to countries experiencing drought and a lack of drinking water (United States and the Middle East).
 
 **BE IT RESOLVED** Canada recognize freshwater as a Canadian Heritage asset and grant the status as a resource to exercise full sovereignty;  
 
 **BE IT RESOLVED** to regulate ecosystem conservation for current and future populations, steps be taken to determine federal governance with the provinces to justify nonmarket management of this resource (freshwater) and conservation of fresh water supplies.  (Quebec)
 
- ------------------- 
+ -------------------
 
 ## Protection of the Supply Management System and Modernize the Canadian Dairy Commission
- **WHEREAS** 
- 
+ **WHEREAS**
+
 
 * the supply management system was established in the early 1970s to counter price instability, supply uncertainty and fluctuations in producer revenues;
 
@@ -550,19 +551,19 @@
 
 * the Liberal Party of Canada supports the supply management system and its three pillars; production planning based on Canadian consumer demand, negotiated cost of production producer prices, and import controls to effectively adjust supply and demand;
 
-* the Canadian Dairy Commission is a Crown corporation established in 1966 with a mandate to coordinate federal and provincial dairy policies and create a dairy production control mechanism to stabilize revenues and avoid costly surplus production; 
+* the Canadian Dairy Commission is a Crown corporation established in 1966 with a mandate to coordinate federal and provincial dairy policies and create a dairy production control mechanism to stabilize revenues and avoid costly surplus production;
 
-**BE IT RESOLVED** the Liberal Party of Canada establish a working group to develop solutions to protect the supply management system and to modernize the Canadian Dairy Commission. 
+**BE IT RESOLVED** the Liberal Party of Canada establish a working group to develop solutions to protect the supply management system and to modernize the Canadian Dairy Commission.
 
 **BE IT FURTHER RESOLVED** the recommendations of this task force will be sent to the Right Honourable PrimeMinister, his Cabinet and all Members of Parliament to serve as a strategic vision for the Government of Canada to promote the supply management system. (Quebec)
 
- ------------------- 
+ -------------------
 
 ## Reclaiming and Sustaining Canada's Healthcare
- **WHEREAS** 
- 
+ **WHEREAS**
 
-* in 2014, over 4 million Canadianshad no family doctor; 
+
+* in 2014, over 4 million Canadianshad no family doctor;
 
 * waitlists for specialists and surgical procedures are among the highest they have ever been, with significant regional disparities, including for rural areas and indigenous peoples;
 
@@ -572,13 +573,13 @@
 
 * the panel reported Canadian healthcare “in crisis”, and identified numerous areas for systemic improvement;
 
-* in 2017 a majority of senior Registered Liberals identified an urgent need for:obetter access to family doctors and healthcare servicesoreduced wait times for specialists and medical proceduresoinnovation for service delivery efficiency and cost reduction; 
+* in 2017 a majority of senior Registered Liberals identified an urgent need for:obetter access to family doctors and healthcare servicesoreduced wait times for specialists and medical proceduresoinnovation for service delivery efficiency and cost reduction;
 
 **BE IT RESOLVED**  the Liberal Party of Canada urge the federal government to:
 
 * accept the Naylor Report's recommendations to lead systemic reform of healthcare;
 
-* in cooperation with provinces, territories, and professional organizations, identify and implement methods to: 
+* in cooperation with provinces, territories, and professional organizations, identify and implement methods to:
 
 * provide every Canadian access to family physician supervised primary care
 
@@ -588,11 +589,11 @@
 
 * Report regularly to Canadians on progress toward achieving the above improvements including data based on patient-derived metrics. (Seniors’Commission) (British Columbia)
 
- ------------------- 
+ -------------------
 
 ## Redressing Tax Avoidance
- **WHEREAS** 
- 
+ **WHEREAS**
+
 
 * Profit shifting tax avoidance schemes, such as the use of tax havens, result in:oErosion of the national tax baseoIncreasing government deficits
 
@@ -616,29 +617,30 @@
 
 * Establishing an intergovernmental body at the United Nations to negotiate a globalagreement to eliminate tax havens and redress tax avoidance.(Women’s Commission)
 
- ------------------- 
+ -------------------
 
 ## Remote Tele-communication infrastructure development for Northern, Remote, Rural Indigenous & Non-indigenous Communities
- **WHEREAS** 
- 
+ **WHEREAS**
 
-* theinternetoffershugeopportunitiesforIndigenouspeoplestoparticipateintheworldeconomythroughtelecommunications,andonlinemarketing;
 
-* theinternetcanalsobeusedbyIndigenouspeoplestostrengthentheircommunities;
+* the internet offers huge opportunities for Indigenous peoples to participate in the world economy through telecommunications, and online marketing;
 
-* FoodinsecurityisaseriousprobleminnorthernandremoteIndigenouscommunitiesacrosstheterritorysharedwithCanadaandthereexistsastrongbodyofresearchandtraditionalknowledgewithrespecttofoodsecurityandnorthernIndigenoushealthwhichwouldbeeasilyaccessiblethroughtheinternet.BEITRESOLVEDtheLiberalPartyofCanadaurgetheGovernmentofCanadato:
+* the internet can also be used by Indigenous peoples to strengthen their communities;
 
-* partnerwithProvinces,IndigenouscommunitiesandOrganizations,aswellasTechandInfrastructureproviders,todevelopenhancedtelecommunicationsoptionsforFirstNation,Metis,andInuitcommunities;
+* Food in security is a serious problem in northern and remote Indigenous communities across the territory shared with Canada and there exists a strong body of research and traditional knowledge with respect to food security and northern Indigenous health which would be easily accessible through the internet.
+**BEITRESOLVED** the Liberal Party of Canada urge the Government of Canada to:
 
-* committobringingforthaccesshigh-speedinternetby2025tonotonlyruralandremotecommunitiesacrossCanadabutalsotoFirstNation,Metis,andInuitcommunitiesinwhichCanadasharesterritorywith;
+* partner with Provinces, Indigenous communities and Organizations, as well as Tech and Infrastructure providers, to develop enhanced telecommunications options for First Nation, Metis, and Inuit communities;
 
-* partnerwithProvincialgovernments&Indigenousgovernmentstoenhancedistancelearningeducation,anditsdelivery,tosupportIndigenouseconomicgrowthandlearning.(IndigenousPeoples’Commission)
+* commit to bringing forth access high-speed internet by 2025 to not only rural and remote communities across Canada but also to First Nation, Metis, and Inuit communities in which Canada shares territory with;
 
- ------------------- 
+* partner with Provincial governments & Indigenous governments to enhance distance learning education, and its delivery, to support Indigenous economic growth and learning.(IndigenousPeoples’Commission)
+
+ -------------------
 
 ## Removing Barriers to Conditional Sentence Orders
- **WHEREAS** 
-  
+ **WHEREAS**
+
 
 * the conditional sentence order (“CSO”), also known as house arrest, was enacted by the Liberal government in 1995 to help correct Canada’s overreliance on incarceration, in particular for Indigenous offenders, as a method to deter crime;
 
@@ -650,11 +652,11 @@
 
 **BE IT RESOLVED**  the Liberal Party of Canada urge the Government of Canada to amend the criminal code to allow greater flexibility to impose conditional sentence orders, in particular for non-violent offences.(Manitoba)
 
- ------------------- 
+ -------------------
 
 ## Renewable Energy Tax Credit
- **WHEREAS** 
- 
+ **WHEREAS**
+
 
 * the 30% Investment Tax Credit for solar and other renewable technologies and 2.3 cent per kilowatt hour Production Tax Credit for wind power in consortwith state incentives have spurred a 300 % increase in wind power and 123% increase in the solar industry over the past decade;
 
@@ -670,43 +672,43 @@
 
 **BE IT RESOLVED** the Liberal Party of Canada strongly encourage the Government of Canada to create a made in Canada Tax Credit Program to drive wind, solar, geothermal, and biomass investment, as well as other renewable energy sources fashioned after the Obama plan of 2015.(Manitoba)
 
- ------------------- 
+ -------------------
 
 ## Restorative Justice
- **WHEREAS** 
- 
+ **WHEREAS**
 
-* there is strong support for the principles, values and operational initiatives in developing services based on restorative justice approaches; 
 
-* arestorative justice approach should be the first priority in dealing with justice issues. Incarceration and social control mechanisms should be used only after restorative justice approaches are not successful, or not applicable; 
+* there is strong support for the principles, values and operational initiatives in developing services based on restorative justice approaches;
 
-* all justice personnel, including personnel in closed custody, should be selected, educated and committed to restorative justice principles and approaches. Continuing seminars and educational opportunities will need to be developed for staff to sustain this restorative approach; 
+* arestorative justice approach should be the first priority in dealing with justice issues. Incarceration and social control mechanisms should be used only after restorative justice approaches are not successful, or not applicable;
+
+* all justice personnel, including personnel in closed custody, should be selected, educated and committed to restorative justice principles and approaches. Continuing seminars and educational opportunities will need to be developed for staff to sustain this restorative approach;
 
 * it will be necessary to develop systems and infrastructure that will form the basis of our service on restorative principles;
 
 **BE IT RESOLVED** the Liberal Party of Canada develop a comprehensive policy on Restorative Justice.(Saskatchewan)
 
- ------------------- 
+ -------------------
 
 ## Suicide Prevention Strategy
- **WHEREAS** 
- 
+ **WHEREAS**
+
 
 * more than 1 in 4 Canadians will be affected by mental health issues;
 
 * suicide is the leading cause of death among young adults in Canada;
 
-* persons undergoing treatment for mental health issues require broad support; 
+* persons undergoing treatment for mental health issues require broad support;
 
-* those close to persons affected by mental health issues are also impacted; 
+* those close to persons affected by mental health issues are also impacted;
 
 **BE IT RESOLVED** a Liberal Government consult on and develop a comprehensive suicide prevention strategy.   (Saskatchewan)
 
- ------------------- 
+ -------------------
 
 ## Supporting Innovations for Local Food Production
- **WHEREAS** 
-  
+ **WHEREAS**
+
 
 * many parts of Canada, especially rural and remote areas, are heavily dependent on food imports;
 
@@ -718,17 +720,17 @@
 
 * prolonged environmental assessments and governmental approvals for agriculture and aquaculture industries can delay development, which is particularly disadvantageous in remote and rural areas with low employment rates and a lack of local food production
 
-**BE IT RESOLVED** the Liberal Party of Canada encourages the Government of Canada to: 
+**BE IT RESOLVED** the Liberal Party of Canada encourages the Government of Canada to:
 
 * develop a plan for all jurisdictions to have a locally grown food supply that would maximize the use of local labour and local resources and minimize regulatory hurdles;
 
 * consider new methods and technologies of food production that would support northern, rural, and remote communities in increasing local food production.(Newfoundland and Labrador)
 
- ------------------- 
+ -------------------
 
 ## Tax Recovery from Offshore Havens
- **WHEREAS** 
- 
+ **WHEREAS**
+
 
 * the sponsors of this resolution consulted academics from Laval and York Universities, investigative journalists, taxpayers’ advocates, a wide variety of research publications; and reviewed recommendations of the Standing Committee on Finance in the report The Canada Revenue Agency -Tax Avoidance and Tax Evasion in preparation of this resolution;
 
@@ -742,15 +744,15 @@
 
 **BE IT RESOLVED** the Liberal Party of Canada urge the Government of Canada to continue to introduce legislation to eliminate existing tax loopholes and to recover taxes from offshore tax havens;
 
-**BE IT FURTHER RESOLVED** the Liberal Party of Canada urge the Government of Canada to applyhigher penalties in addition to the recuperation of unpaid tax from corporations and individualsand that criminal sanctions be provided for third parties who promote offshore tax avoidance schemes to clients; 
+**BE IT FURTHER RESOLVED** the Liberal Party of Canada urge the Government of Canada to applyhigher penalties in addition to the recuperation of unpaid tax from corporations and individualsand that criminal sanctions be provided for third parties who promote offshore tax avoidance schemes to clients;
 
 **BE IT FURTHER RESOLVED** the Liberal Party of Canada urge the Government of Canada to signal clearly that existing and new legislation will be rigorously enforced to prevent tax avoidance and evasion by providing adequate and stable funding to the CRA.(British Columbia)
 
- ------------------- 
+ -------------------
 
 ## The Need for Stable, Quality Jobs -The Key to a Stronger Middle Class
- **WHEREAS** 
-  
+ **WHEREAS**
+
 
 * Senior Registered Liberals across Canada identified the need for “stronger governmentefforts to create stable, quality jobs for all Canadians, with an emphasis on creating realopportunities for the younger generations” as a priority issue ;
 
@@ -762,33 +764,33 @@
 
 * Other countries such as China, Germany and South Korea provide models of cooperation among government, industry and academia leading to globally competitivecorporations and associated jobs in new economic sectors;
 
-**BE IT RESOLVED** the Government of Canada: 
+**BE IT RESOLVED** the Government of Canada:
 
 * to provide leadership in partnership with Canadian businesses, unions and educationalinstitutions for identifying new business sectors in which Canadian corporations cancreate the necessary advantages to compete internationally thereby supporting stable,quality jobs for all Canadians; and
 
 * to develop the necessary programs to ensure Canadian innovations translate into stable,quality jobs by encouraging and supporting Canadian corporations to grow and competein the global marketplace.(Seniors’Commission)
 
- ------------------- 
+ -------------------
 
 ## Transport Canada’s “Flight and Duty Rules” Reform
- **WHEREAS** 
- 
+ **WHEREAS**
 
-* Transport Canada is pursuing changes to the Flight and Duty Rules that apply to many northern and remote air operators in Canada, said rules having been published July 1 in the Canada Gazette; 
+
+* Transport Canada is pursuing changes to the Flight and Duty Rules that apply to many northern and remote air operators in Canada, said rules having been published July 1 in the Canada Gazette;
 
 * analysis by the Northern Air Transport Association (NATA) has revealed that many of the changes will have an adverse effect on the efficiency and effectiveness of northern operators who provide critical medevac services;
 
-* there is no evidence to suggest that there has been deterioration in safety in medivac services throughout the north due to incidences of fatigue; 
+* there is no evidence to suggest that there has been deterioration in safety in medivac services throughout the north due to incidences of fatigue;
 
 * the revised rules actually decrease safety for those flying medivac services throughout northern and remote areas given that time behind the controls and frequency of experience flying into challenging air strips will be decreased for pilots;
 
 * management of health and welfare of Canadians living in the north and remote areas is complex with this complexity also experienced in the transportation of the medically challenged to appropriate medical facilities;
 
-* a common element associated with all medical lift actions is the unpredictability of the mission and thus the importance of relying on good judgment by operators with experience and commitment to maintaining the highest possible operational standards; 
+* a common element associated with all medical lift actions is the unpredictability of the mission and thus the importance of relying on good judgment by operators with experience and commitment to maintaining the highest possible operational standards;
 
 * thenew rules appear to be focused on circumstances faced in southern Canada, with no understanding of the unique issues associated with northern and remote aviation.  
 
-**BE IT RESOLVED** : 
+**BE IT RESOLVED** :
 
 * Transport Canada postpone the Gazette process regarding new rules until acomprehensive system safety review is conducted to determine whether current regulations result in scenarios where safety is compromised due to pilot fatigue;
 
@@ -796,13 +798,13 @@
 
 * Transport Canada inventory the current state of flight infrastructure associated with safe flying in northern and remote environments (approach aids, landing lights and runways of sufficient length), with an eye to setting priorities for infrastructure upgrade or installation funding, as this is a far greater impediment to safe flying in northern areas of Canada;
 
-* Transport Canada pursue the recommendations of the Office of the Auditor General’s 2017, Report 6 regarding establishment of essential airports and definition of “Northern Canada”, matters directly related to safe air transportation throughout Canada’s north.  (Yukon) 
+* Transport Canada pursue the recommendations of the Office of the Auditor General’s 2017, Report 6 regarding establishment of essential airports and definition of “Northern Canada”, matters directly related to safe air transportation throughout Canada’s north.  (Yukon)
 
- ------------------- 
+ -------------------
 
 ## Implementing Universal Access to Necessary Medicines
- **WHEREAS** 
- 
+ **WHEREAS**
+
 
 * the United Nations and the World Health Organization have declared that all nations should ensure universal access to necessary medicines and Canada does not;
 
@@ -836,23 +838,23 @@
 
 * develop, with provincial and territorial cooperation, a universal, single-payer, evidence-based, and sustainable public drug plan, with purchasing power to secure best available pricing, beginning with a list of essential medicines addressing priority health needs and expanding to a comprehensive permanent plan to promote the health and well-being of all Canadians.This Policy Resolution was co-sponsored by the Liberal National Caucus, LPC (BC) and LPC(O).
 
- ------------------- 
+ -------------------
 
 ## Visa-Free Business and Tourism Travel for Ukrainian Citizens
- **WHEREAS** 
-  
+ **WHEREAS**
+
 
 * Canada has a deep and long-standing relationship with Ukraine, including 1.3 million Canadians of Ukrainian descent after 125 years of Ukrainian immigration to Canada, several bilateral programs and, most recently, the Canada-Ukraine Free Trade Agreement (CUFTA);
 
 * Ukrainian-Canadians make up more than 13% of Saskatchewan’s population;
 
-* Canadian-Ukrainian bilateral trade represents nearly $375 million/year and is expected to double with the signing of CUFTA; 
+* Canadian-Ukrainian bilateral trade represents nearly $375 million/year and is expected to double with the signing of CUFTA;
 
-* Western Canada is expected to be the primary beneficiary of CUFTA, with nearly $140 million worth of exports a year from 2014-16; 
+* Western Canada is expected to be the primary beneficiary of CUFTA, with nearly $140 million worth of exports a year from 2014-16;
 
 * Ukraine unilaterally eliminated the need for short-term visas forCanadian citizens in 2005, while Ukrainian business leaders still require cumbersome visas to engage in business activities in Canada;
 
-* more than one-third of Ukrainian visa applications were denied in the first quarter of 2017; 
+* more than one-third of Ukrainian visa applications were denied in the first quarter of 2017;
 
 * the EU eliminated the needfor visas for Ukrainian citizens in 2017 and has seen a refusal rate of just 0.026% since its implementation (June –Sept. 2017);
 
@@ -860,11 +862,11 @@
 
 **BE IT RESOLVED** the Liberal Government of Canada will eliminate the need for business and tourist visas for Ukrainian citizens with biometric passports for stays of not longer than 90 days.(Saskatchewan)
 
- ------------------- 
+ -------------------
 
 ## Women’s Caucus Seniors Resolution
- **WHEREAS** 
- 
+ **WHEREAS**
+
 
 * 246,000 seniors were living in poverty in Canada in 2015 (below the low-income cut-off after tax (LICO));
 
@@ -878,14 +880,12 @@
 
 * a claw back is applied to OAS and GIS when additional income is realized. Subsidized housing is also affected when additional income is realized;
 
-* additional income could be needed for necessary home modification, medical procedureor support program, funeral costs, double housing needs, etc. 
+* additional income could be needed for necessary home modification, medical procedureor support program, funeral costs, double housing needs, etc.
 
-**BE IT RESOLVED** : 
+**BE IT RESOLVED** :
 
 * the Government allows seniors more flexibility to make additional income, without triggering a claw back in their OAS and GIS;
 
 * a sliding scale could be utilized where a percentage is clawed back that increases at certain levels of additional income and is zero below a certain threshold;
 
 * it can also be available only for a limited number of years so as not to trigger an unfair situation with other seniors that have the same income, however may not be getting the same GIS and OAS benefits.(National Caucus)
-
-    

@@ -2,6 +2,8 @@ const fs = require('fs'),
       PDFParser = require("pdf2json"),
       toc = require('markdown-toc');
 
+const manualCleanup = require('./manualCleanup');
+
 const pdfParser = new PDFParser();
 
 
@@ -13,7 +15,7 @@ pdfParser.on("pdfParser_dataReady", pdfData => {
       // Page: Array<Text>
       // Pages: Array<Page>
       const listOfPages = pdfData.formImage.Pages.map((page) => {
-        return page.Texts.map((text, index) => {
+        return page.Texts.map((text, index, array) => {
           // console.log(text);
           if(index === 0) {
             return `## ${decodeURIComponent(text.R[0].T)}`
@@ -42,7 +44,16 @@ pdfParser.on("pdfParser_dataReady", pdfData => {
 
   cleanedDataPromise().then((cleanData) => {
 
-    const outputTxt = cleanData.join('\n\n ------------------- \n\n');
+    let outputTxt = cleanData.join('\n\n ------------------- \n\n');
+
+    manualCleanup.forEach((issue) => {
+      // console.log(issue);
+      const rawString = issue[0];
+      const fixedString = issue[1];
+      console.log(`FIND: `, outputTxt.indexOf(rawString));
+      outputTxt = outputTxt.replace(rawString, fixedString);
+    })
+
     const outputWithToc =
     `
 # 2018 Liberal Policy Resolutions
@@ -56,7 +67,8 @@ ${toc(outputTxt).content}
 ${outputTxt}
 
     `
-    console.log(outputWithToc);
+
+    // console.log(outputWithToc);
 
     fs.writeFile("./LPC_Policy.md", outputWithToc, 'utf8', (err) => {
       console.log('WRITEFILE ERROR: ', err);
