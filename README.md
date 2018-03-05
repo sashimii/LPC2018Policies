@@ -46,7 +46,7 @@
 
 ## A Seniors' Ministry
  **WHEREAS** 
-
+ 
 
 * Canadian society is aging rapidly and seniors make up almost 16% of our population; this number is expected to grow to 24% by 2030; 
 
@@ -78,7 +78,7 @@
 
 ## Address the Opioid Crisis through a Public Health Approach
  **WHEREAS** 
-
+ 
 
 * almost 3,000 Canadians died from opioid-related causes in 2016, and it is estimated that the number will surpass 3,000 in 2017; 
 
@@ -96,7 +96,7 @@
 
 ## Affordable Housing 
  **WHEREAS** 
- 
+  
 
 * residents in Canada have the right to affordable housing, regardless of ethnicity, cultural background, sexual orientation, gender identity and expression, or disability; 
 
@@ -122,7 +122,7 @@
 
 ## Canadian Environmental Bill of Rights
  **WHEREAS** 
-
+ 
 
 * on June 16, 2010, all Liberal Members of Parliament present in the House of Commons voted in favor of Bill C-469 (40-3), an Act to Establish a Canadian Environmental Bill of Rights, to “safeguard the right of present and future generations of Canadians to a healthy and ecologically balanced environment”;
 
@@ -142,7 +142,7 @@
 
 ## Canadian Oil & Gas Independence 
  **WHEREAS** 
- 
+  
 
 * the oil and gas sector is a key industry for Canada and an integral part of national economic growth and job creation; 
 
@@ -162,7 +162,7 @@
 
 ## Decriminalization of Consensual Sex Work and Sex Trade
  **WHEREAS** 
-
+ 
 
 * the current Protection of Communities and Exploited Persons Act, which prohibits the purchasing of sex, does little to protect sex workers and instead pushes them to work underground and in dangerous conditions;
 
@@ -172,13 +172,13 @@
 
 **BE IT RESOLVED** the Liberal Party of Canada consult not just with those involved in the sex work, but with surrounding communities to ensure that these changes ensure the safety and wellbeing of these surrounding communities and their families;
 
-**BE IT FURTHER RESOLVED**that along with decriminalization the Liberal Party of Canada should look to address the true problems facing sex workers by working to increase their access to sexual health clinics, counseling and improve their relationship with local authorities.(Youth Commission)
+**BE IT FURTHER RESOLVED** that along with decriminalization the Liberal Party of Canada should look to address the true problems facing sex workers by working to increase their access to sexual health clinics, counseling and improve their relationship with local authorities.(Youth Commission)
 
  ------------------- 
 
 ## Employee Pension Protection Strategy 
  **WHEREAS** 
-
+ 
 
 * some employers have failed to fulfill their commitment to Employee Pension Plans, depriving employees of future retirement income in addition to the loss of part or all their current contributions; 
 
@@ -196,13 +196,13 @@
 
 * Reforming current federal legislation with the aim of protecting Employee Pension Plans during insolvency proceedings. 
 
-**BE IT FURTHER RESOLVED**the Liberal Party of Canada call upon the Government of Canada to consult with stakeholders, organizations, and third parties in its development of the aforementioned strategy.(Ontario)
+**BE IT FURTHER RESOLVED** the Liberal Party of Canada call upon the Government of Canada to consult with stakeholders, organizations, and third parties in its development of the aforementioned strategy.(Ontario)
 
  ------------------- 
 
 ## End Taxation on MenstrualProducts
  **WHEREAS** 
-
+ 
 
 * Menstrual products are essential for person’s wellbeing and a monetary burden should not infringe on their self-autonomy or hinder their ability to buy vital products;
 
@@ -216,7 +216,7 @@
 
 ## Endorsing the United Nations Treaty to Ban Nuclear Weapons
  **WHEREAS** 
-
+ 
 
 * under Article VI of the Treaty on the Non-Proliferation of Nuclear Weapons (1970), Canada has a solemn obligation, under international law, to press for worldwide elimination of nuclear weapons;
 
@@ -236,7 +236,7 @@
 
 ## Environmental Sustainability
  **WHEREAS** 
-
+ 
 
 * senior Registered Liberals across Canada identified through the 2017 SLC PolicyQuestionnaire the need for “government leadership in addressing all aspects ofenvironmental sustainability, including air, water, and land, not just climate change andnot just mitigation” as a priority issue for consideration during the next federal electioncampaign;
 
@@ -258,7 +258,7 @@
 
 ## Implementation of a Guaranteed Minimum Income Model  
  **WHEREAS** 
- 
+  
 
 * almost 5 million Canadians live in poverty; 
 
@@ -290,7 +290,7 @@
 
 ## Inclusion of Mental Health Services in Medicare and the Canada Health Act
  **WHEREAS** 
-
+ 
 
 * poor mental health places a burden on all Canadians, particularly those living in poverty and/or working in positions with no provision of health care insurance;
 
@@ -310,13 +310,13 @@
 
 * inconsultation with provincial and territorial governments and indigenous groups, establish a systematic universal system of effective funded mental health programs and services as a component of Canada's Health Care funding.
 
-**BE IT FURTHER RESOLVED**that a pilot program evaluate the effectiveness of community based partnerships led by mental health and primary care professionals in each region of Canada for up to a 5-year periodwith annual reports to Parliament on effectiveness, cost and outcomes.(Nova Scotia)
+**BE IT FURTHER RESOLVED** that a pilot program evaluate the effectiveness of community based partnerships led by mental health and primary care professionals in each region of Canada for up to a 5-year periodwith annual reports to Parliament on effectiveness, cost and outcomes.(Nova Scotia)
 
  ------------------- 
 
 ## IndigenousHealthCareAuditorandIndigenousHealthOmbudsman
  **WHEREAS** 
-
+ 
 
 * the Truth and Reconciliation Commission Call to Action 19 states: We call upon the federal government, in consultation with Indigenous peoples, to establish measurable goals to identify and close the gaps in health outcomes between Indigenous and non-Indigenous communities, and to publish annual progress reports and assess long-term trends;
 
@@ -332,7 +332,7 @@
 
 ## Infrastructure and Connecting Canadians via a Fixed Link
  **WHEREAS** 
- 
+  
 
 * the Island of Newfoundland depends on ferry service for access to goods and services and travel for visitors to or from the Island;
 
@@ -362,7 +362,7 @@
 
 ## Leave to Study Program 
  **WHEREAS** 
-
+ 
 
 * the Government of Canada continues to invest in and helps Canadians gain the skills, abilities, and experience needed to find and maintain good employment;  
 
@@ -374,17 +374,17 @@
 
 **BE IT RESOLVED**  the Liberal Party of Canada urge the Government of Canada to establish a “leave to study” program, which may be defined as the option of employees who have been employed with an employer (of a prescribed size) for 12 months to take a leave of absence for further study directly related to their work;  
 
-**BE IT FURTHER RESOLVED**that qualifying applicants to such a program receive financial remuneration through the Employment Insurance program for six months, with or without contribution from the employer; 
+**BE IT FURTHER RESOLVED** that qualifying applicants to such a program receive financial remuneration through the Employment Insurance program for six months, with or without contribution from the employer; 
 
-**BE IT FURTHER RESOLVED**that Employment and Social Development Canada shall operate the program under joint agreement with provincial ministries of labour with the goal of advancing the priorities of each province; 
+**BE IT FURTHER RESOLVED** that Employment and Social Development Canada shall operate the program under joint agreement with provincial ministries of labour with the goal of advancing the priorities of each province; 
 
-**BE IT FURTHER RESOLVED**that the initiation of such a program may include a pilot program in each or any province or territory under Part V of the Employment Insurance Act. (Ontario)
+**BE IT FURTHER RESOLVED** that the initiation of such a program may include a pilot program in each or any province or territory under Part V of the Employment Insurance Act. (Ontario)
 
  ------------------- 
 
 ## Modernize and Integrate Canada’s Energy Grid
  **WHEREAS** 
-
+ 
 
 * a modern integrated Canadian energy grid will enable greater energy efficiency, reliability and affordability for Canadians; 
 
@@ -404,7 +404,7 @@
 
 ## Name Change for “Commissioner”
  **WHEREAS** 
- 
+  
 
 * the title of “Commissioner” has been commonly (though not exclusively)used by Canada for the Chief Executive Officers of the territorial governments (the role that in the Provinces today is called the “Lieutenant Governor”);
 
@@ -430,7 +430,7 @@
 
 ## National On-Campus Sexual Assault Prevention Strategy
  **WHEREAS** 
-
+ 
 
 * In 2016 Canadian universities reported that less than 10% of sexual assault complaints were followed by a formal investigation;
 
@@ -444,7 +444,7 @@
 
 ## National Three-Oceans Policy for Security,Environmental Protection and Development
  **WHEREAS** 
-
+ 
 
 * Canada has the longest coastline of any country in the world, fronting on three oceans, and four great lakes;
 
@@ -468,7 +468,7 @@
 
 ## Post-Secondary Education and Labour Market Partnership
  **WHEREAS** 
-
+ 
 
 * the federal government has access to data pertaining to labour market trends;
 
@@ -482,7 +482,7 @@
 
 ## Post-Secondary Funding and Economic Development
  **WHEREAS** 
- 
+  
 
 * an educated labour force is critical for economic development, developing new industries, and creating jobs;
 
@@ -502,7 +502,7 @@
 
 ## Proposal-based Funding to Sustainable Transfer Payments
  **WHEREAS** 
-
+ 
 
 * IndigenousPeoplesarethefirsttoinhabitCanadaandhavebeenthevictimsofcolonialism;
 
@@ -516,7 +516,7 @@
 
 ## Protecting Freshwater Resources -Export and Marketing 
  **WHEREAS** 
- 
+  
 
 * water is an essential resource for the lives of Canadians;  
 
@@ -542,7 +542,7 @@
 
 ## Protection of the Supply Management System and Modernize the Canadian Dairy Commission
  **WHEREAS** 
-
+ 
 
 * the supply management system was established in the early 1970s to counter price instability, supply uncertainty and fluctuations in producer revenues;
 
@@ -554,13 +554,13 @@
 
 **BE IT RESOLVED** the Liberal Party of Canada establish a working group to develop solutions to protect the supply management system and to modernize the Canadian Dairy Commission. 
 
-**BE IT FURTHER RESOLVED**the recommendations of this task force will be sent to the Right Honourable PrimeMinister, his Cabinet and all Members of Parliament to serve as a strategic vision for the Government of Canada to promote the supply management system. (Quebec)
+**BE IT FURTHER RESOLVED** the recommendations of this task force will be sent to the Right Honourable PrimeMinister, his Cabinet and all Members of Parliament to serve as a strategic vision for the Government of Canada to promote the supply management system. (Quebec)
 
  ------------------- 
 
 ## Reclaiming and Sustaining Canada's Healthcare
  **WHEREAS** 
-
+ 
 
 * in 2014, over 4 million Canadianshad no family doctor; 
 
@@ -592,7 +592,7 @@
 
 ## Redressing Tax Avoidance
  **WHEREAS** 
-
+ 
 
 * Profit shifting tax avoidance schemes, such as the use of tax havens, result in:oErosion of the national tax baseoIncreasing government deficits
 
@@ -620,7 +620,7 @@
 
 ## Remote Tele-communication infrastructure development for Northern, Remote, Rural Indigenous & Non-indigenous Communities
  **WHEREAS** 
-
+ 
 
 * theinternetoffershugeopportunitiesforIndigenouspeoplestoparticipateintheworldeconomythroughtelecommunications,andonlinemarketing;
 
@@ -638,7 +638,7 @@
 
 ## Removing Barriers to Conditional Sentence Orders
  **WHEREAS** 
- 
+  
 
 * the conditional sentence order (“CSO”), also known as house arrest, was enacted by the Liberal government in 1995 to help correct Canada’s overreliance on incarceration, in particular for Indigenous offenders, as a method to deter crime;
 
@@ -654,7 +654,7 @@
 
 ## Renewable Energy Tax Credit
  **WHEREAS** 
-
+ 
 
 * the 30% Investment Tax Credit for solar and other renewable technologies and 2.3 cent per kilowatt hour Production Tax Credit for wind power in consortwith state incentives have spurred a 300 % increase in wind power and 123% increase in the solar industry over the past decade;
 
@@ -674,7 +674,7 @@
 
 ## Restorative Justice
  **WHEREAS** 
-
+ 
 
 * there is strong support for the principles, values and operational initiatives in developing services based on restorative justice approaches; 
 
@@ -690,7 +690,7 @@
 
 ## Suicide Prevention Strategy
  **WHEREAS** 
-
+ 
 
 * more than 1 in 4 Canadians will be affected by mental health issues;
 
@@ -706,7 +706,7 @@
 
 ## Supporting Innovations for Local Food Production
  **WHEREAS** 
- 
+  
 
 * many parts of Canada, especially rural and remote areas, are heavily dependent on food imports;
 
@@ -728,7 +728,7 @@
 
 ## Tax Recovery from Offshore Havens
  **WHEREAS** 
-
+ 
 
 * the sponsors of this resolution consulted academics from Laval and York Universities, investigative journalists, taxpayers’ advocates, a wide variety of research publications; and reviewed recommendations of the Standing Committee on Finance in the report The Canada Revenue Agency -Tax Avoidance and Tax Evasion in preparation of this resolution;
 
@@ -742,15 +742,15 @@
 
 **BE IT RESOLVED** the Liberal Party of Canada urge the Government of Canada to continue to introduce legislation to eliminate existing tax loopholes and to recover taxes from offshore tax havens;
 
-**BE IT FURTHER RESOLVED**the Liberal Party of Canada urge the Government of Canada to applyhigher penalties in addition to the recuperation of unpaid tax from corporations and individualsand that criminal sanctions be provided for third parties who promote offshore tax avoidance schemes to clients; 
+**BE IT FURTHER RESOLVED** the Liberal Party of Canada urge the Government of Canada to applyhigher penalties in addition to the recuperation of unpaid tax from corporations and individualsand that criminal sanctions be provided for third parties who promote offshore tax avoidance schemes to clients; 
 
-**BE IT FURTHER RESOLVED**the Liberal Party of Canada urge the Government of Canada to signal clearly that existing and new legislation will be rigorously enforced to prevent tax avoidance and evasion by providing adequate and stable funding to the CRA.(British Columbia)
+**BE IT FURTHER RESOLVED** the Liberal Party of Canada urge the Government of Canada to signal clearly that existing and new legislation will be rigorously enforced to prevent tax avoidance and evasion by providing adequate and stable funding to the CRA.(British Columbia)
 
  ------------------- 
 
 ## The Need for Stable, Quality Jobs -The Key to a Stronger Middle Class
  **WHEREAS** 
- 
+  
 
 * Senior Registered Liberals across Canada identified the need for “stronger governmentefforts to create stable, quality jobs for all Canadians, with an emphasis on creating realopportunities for the younger generations” as a priority issue ;
 
@@ -772,7 +772,7 @@
 
 ## Transport Canada’s “Flight and Duty Rules” Reform
  **WHEREAS** 
-
+ 
 
 * Transport Canada is pursuing changes to the Flight and Duty Rules that apply to many northern and remote air operators in Canada, said rules having been published July 1 in the Canada Gazette; 
 
@@ -802,7 +802,7 @@
 
 ## Implementing Universal Access to Necessary Medicines
  **WHEREAS** 
-
+ 
 
 * the United Nations and the World Health Organization have declared that all nations should ensure universal access to necessary medicines and Canada does not;
 
@@ -840,7 +840,7 @@
 
 ## Visa-Free Business and Tourism Travel for Ukrainian Citizens
  **WHEREAS** 
- 
+  
 
 * Canada has a deep and long-standing relationship with Ukraine, including 1.3 million Canadians of Ukrainian descent after 125 years of Ukrainian immigration to Canada, several bilateral programs and, most recently, the Canada-Ukraine Free Trade Agreement (CUFTA);
 
@@ -864,7 +864,7 @@
 
 ## Women’s Caucus Seniors Resolution
  **WHEREAS** 
-
+ 
 
 * 246,000 seniors were living in poverty in Canada in 2015 (below the low-income cut-off after tax (LICO));
 
