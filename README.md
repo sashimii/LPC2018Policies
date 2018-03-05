@@ -1,5 +1,4 @@
-
-      - [A Seniors' Ministry](#a-seniors-ministry)
+- [A Seniors' Ministry](#a-seniors-ministry)
 - [Address the Opioid Crisis through a Public Health Approach](#address-the-opioid-crisis-through-a-public-health-approach)
 - [Affordable Housing](#affordable-housing)
 - [Canadian Environmental Bill of Rights](#canadian-environmental-bill-of-rights)
