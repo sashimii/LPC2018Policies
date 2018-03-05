@@ -1,3 +1,8 @@
+
+# 2018 Liberal Policy Resolutions
+
+## Table of Content:
+
 - [A Seniors' Ministry](#a-seniors-ministry)
 - [Address the Opioid Crisis through a Public Health Approach](#address-the-opioid-crisis-through-a-public-health-approach)
 - [Affordable Housing](#affordable-housing)
@@ -36,8 +41,10 @@
 - [Implementing Universal Access to Necessary Medicines](#implementing-universal-access-to-necessary-medicines)
 - [Visa-Free Business and Tourism Travel for Ukrainian Citizens](#visa-free-business-and-tourism-travel-for-ukrainian-citizens)
 - [Women’s Caucus Seniors Resolution](#womens-caucus-seniors-resolution)
-      -------------------
-      # A Seniors' Ministry
+
+-------------------
+
+## A Seniors' Ministry
  **WHEREAS** 
 
 
@@ -69,7 +76,7 @@
 
  ------------------- 
 
-# Address the Opioid Crisis through a Public Health Approach
+## Address the Opioid Crisis through a Public Health Approach
  **WHEREAS** 
 
 
@@ -87,7 +94,7 @@
 
  ------------------- 
 
-# Affordable Housing 
+## Affordable Housing 
  **WHEREAS** 
  
 
@@ -113,7 +120,7 @@
 
  ------------------- 
 
-# Canadian Environmental Bill of Rights
+## Canadian Environmental Bill of Rights
  **WHEREAS** 
 
 
@@ -133,7 +140,7 @@
 
  ------------------- 
 
-# Canadian Oil & Gas Independence 
+## Canadian Oil & Gas Independence 
  **WHEREAS** 
  
 
@@ -153,7 +160,7 @@
 
  ------------------- 
 
-# Decriminalization of Consensual Sex Work and Sex Trade
+## Decriminalization of Consensual Sex Work and Sex Trade
  **WHEREAS** 
 
 
@@ -167,7 +174,7 @@
 
  ------------------- 
 
-# Employee Pension Protection Strategy 
+## Employee Pension Protection Strategy 
  **WHEREAS** 
 
 
@@ -191,7 +198,7 @@
 
  ------------------- 
 
-# End Taxation on MenstrualProducts
+## End Taxation on MenstrualProducts
  **WHEREAS** 
 
 
@@ -205,7 +212,7 @@
 
  ------------------- 
 
-# Endorsing the United Nations Treaty to Ban Nuclear Weapons
+## Endorsing the United Nations Treaty to Ban Nuclear Weapons
  **WHEREAS** 
 
 
@@ -225,7 +232,7 @@
 
  ------------------- 
 
-# Environmental Sustainability
+## Environmental Sustainability
  **WHEREAS** 
 
 
@@ -247,7 +254,7 @@
 
  ------------------- 
 
-# Implementation of a Guaranteed Minimum Income Model  
+## Implementation of a Guaranteed Minimum Income Model  
  **WHEREAS** 
  
 
@@ -279,7 +286,7 @@
 
  ------------------- 
 
-# Inclusion of Mental Health Services in Medicare and the Canada Health Act
+## Inclusion of Mental Health Services in Medicare and the Canada Health Act
  **WHEREAS** 
 
 
@@ -305,7 +312,7 @@
 
  ------------------- 
 
-# IndigenousHealthCareAuditorandIndigenousHealthOmbudsman
+## IndigenousHealthCareAuditorandIndigenousHealthOmbudsman
  **WHEREAS** 
 
 
@@ -321,7 +328,7 @@
 
  ------------------- 
 
-# Infrastructure and Connecting Canadians via a Fixed Link
+## Infrastructure and Connecting Canadians via a Fixed Link
  **WHEREAS** 
  
 
@@ -351,7 +358,7 @@
 
  ------------------- 
 
-# Leave to Study Program 
+## Leave to Study Program 
  **WHEREAS** 
 
 
@@ -369,7 +376,7 @@
 
  ------------------- 
 
-# Modernize and Integrate Canada’s Energy Grid
+## Modernize and Integrate Canada’s Energy Grid
  **WHEREAS** 
 
 
@@ -389,7 +396,7 @@
 
  ------------------- 
 
-# Name Change for “Commissioner”
+## Name Change for “Commissioner”
  **WHEREAS** 
  
 
@@ -415,7 +422,7 @@
 
  ------------------- 
 
-# National On-Campus Sexual Assault Prevention Strategy
+## National On-Campus Sexual Assault Prevention Strategy
  **WHEREAS** 
 
 
@@ -429,7 +436,7 @@
 
  ------------------- 
 
-# National Three-Oceans Policy for Security,Environmental Protection and Development
+## National Three-Oceans Policy for Security,Environmental Protection and Development
  **WHEREAS** 
 
 
@@ -453,7 +460,7 @@
 
  ------------------- 
 
-# Post-Secondary Education and Labour Market Partnership
+## Post-Secondary Education and Labour Market Partnership
  **WHEREAS** 
 
 
@@ -467,7 +474,7 @@
 
  ------------------- 
 
-# Post-Secondary Funding and Economic Development
+## Post-Secondary Funding and Economic Development
  **WHEREAS** 
  
 
@@ -487,7 +494,7 @@
 
  ------------------- 
 
-# Proposal-based Funding to Sustainable Transfer Payments
+## Proposal-based Funding to Sustainable Transfer Payments
  **WHEREAS** 
 
 
@@ -501,7 +508,7 @@
 
  ------------------- 
 
-# Protecting Freshwater Resources -Export and Marketing 
+## Protecting Freshwater Resources -Export and Marketing 
  **WHEREAS** 
  
 
@@ -525,7 +532,7 @@
 
  ------------------- 
 
-# Protection of the Supply Management System and Modernize the Canadian Dairy Commission
+## Protection of the Supply Management System and Modernize the Canadian Dairy Commission
  **WHEREAS** 
 
 
@@ -543,7 +550,7 @@
 
  ------------------- 
 
-# Reclaiming and Sustaining Canada's Healthcare
+## Reclaiming and Sustaining Canada's Healthcare
  **WHEREAS** 
 
 
@@ -575,7 +582,7 @@
 
  ------------------- 
 
-# Redressing Tax Avoidance
+## Redressing Tax Avoidance
  **WHEREAS** 
 
 
@@ -603,7 +610,7 @@
 
  ------------------- 
 
-# Remote Tele-communication infrastructure development for Northern, Remote, Rural Indigenous & Non-indigenous Communities
+## Remote Tele-communication infrastructure development for Northern, Remote, Rural Indigenous & Non-indigenous Communities
  **WHEREAS** 
 
 
@@ -621,7 +628,7 @@
 
  ------------------- 
 
-# Removing Barriers to Conditional Sentence Orders
+## Removing Barriers to Conditional Sentence Orders
  **WHEREAS** 
  
 
@@ -637,7 +644,7 @@
 
  ------------------- 
 
-# Renewable Energy Tax Credit
+## Renewable Energy Tax Credit
  **WHEREAS** 
 
 
@@ -657,7 +664,7 @@
 
  ------------------- 
 
-# Restorative Justice
+## Restorative Justice
  **WHEREAS** 
 
 
@@ -673,7 +680,7 @@
 
  ------------------- 
 
-# Suicide Prevention Strategy
+## Suicide Prevention Strategy
  **WHEREAS** 
 
 
@@ -689,7 +696,7 @@
 
  ------------------- 
 
-# Supporting Innovations for Local Food Production
+## Supporting Innovations for Local Food Production
  **WHEREAS** 
  
 
@@ -711,7 +718,7 @@
 
  ------------------- 
 
-# Tax Recovery from Offshore Havens
+## Tax Recovery from Offshore Havens
  **WHEREAS** 
 
 
@@ -731,7 +738,7 @@
 
  ------------------- 
 
-# The Need for Stable, Quality Jobs -The Key to a Stronger Middle Class
+## The Need for Stable, Quality Jobs -The Key to a Stronger Middle Class
  **WHEREAS** 
  
 
@@ -753,7 +760,7 @@
 
  ------------------- 
 
-# Transport Canada’s “Flight and Duty Rules” Reform
+## Transport Canada’s “Flight and Duty Rules” Reform
  **WHEREAS** 
 
 
@@ -783,7 +790,7 @@
 
  ------------------- 
 
-# Implementing Universal Access to Necessary Medicines
+## Implementing Universal Access to Necessary Medicines
  **WHEREAS** 
 
 
@@ -821,7 +828,7 @@
 
  ------------------- 
 
-# Visa-Free Business and Tourism Travel for Ukrainian Citizens
+## Visa-Free Business and Tourism Travel for Ukrainian Citizens
  **WHEREAS** 
  
 
@@ -845,7 +852,7 @@
 
  ------------------- 
 
-# Women’s Caucus Seniors Resolution
+## Women’s Caucus Seniors Resolution
  **WHEREAS** 
 
 
@@ -870,4 +877,5 @@
 * a sliding scale could be utilized where a percentage is clawed back that increases at certain levels of additional income and is zero below a certain threshold;
 
 * it can also be available only for a limited number of years so as not to trigger an unfair situation with other seniors that have the same income, however may not be getting the same GIS and OAS benefits.(National Caucus)
+
     
