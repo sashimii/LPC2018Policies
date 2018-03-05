@@ -1,6 +1,44 @@
-# LPC 2018 Policies
 
-# A Seniors' Ministry
+      - [A Seniors' Ministry](#a-seniors-ministry)
+- [Address the Opioid Crisis through a Public Health Approach](#address-the-opioid-crisis-through-a-public-health-approach)
+- [Affordable Housing](#affordable-housing)
+- [Canadian Environmental Bill of Rights](#canadian-environmental-bill-of-rights)
+- [Canadian Oil & Gas Independence](#canadian-oil--gas-independence)
+- [Decriminalization of Consensual Sex Work and Sex Trade](#decriminalization-of-consensual-sex-work-and-sex-trade)
+- [Employee Pension Protection Strategy](#employee-pension-protection-strategy)
+- [End Taxation on MenstrualProducts](#end-taxation-on-menstrualproducts)
+- [Endorsing the United Nations Treaty to Ban Nuclear Weapons](#endorsing-the-united-nations-treaty-to-ban-nuclear-weapons)
+- [Environmental Sustainability](#environmental-sustainability)
+- [Implementation of a Guaranteed Minimum Income Model](#implementation-of-a-guaranteed-minimum-income-model)
+- [Inclusion of Mental Health Services in Medicare and the Canada Health Act](#inclusion-of-mental-health-services-in-medicare-and-the-canada-health-act)
+- [IndigenousHealthCareAuditorandIndigenousHealthOmbudsman](#indigenoushealthcareauditorandindigenoushealthombudsman)
+- [Infrastructure and Connecting Canadians via a Fixed Link](#infrastructure-and-connecting-canadians-via-a-fixed-link)
+- [Leave to Study Program](#leave-to-study-program)
+- [Modernize and Integrate Canada’s Energy Grid](#modernize-and-integrate-canadas-energy-grid)
+- [Name Change for “Commissioner”](#name-change-for-commissioner)
+- [National On-Campus Sexual Assault Prevention Strategy](#national-on-campus-sexual-assault-prevention-strategy)
+- [National Three-Oceans Policy for Security,Environmental Protection and Development](#national-three-oceans-policy-for-securityenvironmental-protection-and-development)
+- [Post-Secondary Education and Labour Market Partnership](#post-secondary-education-and-labour-market-partnership)
+- [Post-Secondary Funding and Economic Development](#post-secondary-funding-and-economic-development)
+- [Proposal-based Funding to Sustainable Transfer Payments](#proposal-based-funding-to-sustainable-transfer-payments)
+- [Protecting Freshwater Resources -Export and Marketing](#protecting-freshwater-resources--export-and-marketing)
+- [Protection of the Supply Management System and Modernize the Canadian Dairy Commission](#protection-of-the-supply-management-system-and-modernize-the-canadian-dairy-commission)
+- [Reclaiming and Sustaining Canada's Healthcare](#reclaiming-and-sustaining-canadas-healthcare)
+- [Redressing Tax Avoidance](#redressing-tax-avoidance)
+- [Remote Tele-communication infrastructure development for Northern, Remote, Rural Indigenous & Non-indigenous Communities](#remote-tele-communication-infrastructure-development-for-northern-remote-rural-indigenous--non-indigenous-communities)
+- [Removing Barriers to Conditional Sentence Orders](#removing-barriers-to-conditional-sentence-orders)
+- [Renewable Energy Tax Credit](#renewable-energy-tax-credit)
+- [Restorative Justice](#restorative-justice)
+- [Suicide Prevention Strategy](#suicide-prevention-strategy)
+- [Supporting Innovations for Local Food Production](#supporting-innovations-for-local-food-production)
+- [Tax Recovery from Offshore Havens](#tax-recovery-from-offshore-havens)
+- [The Need for Stable, Quality Jobs -The Key to a Stronger Middle Class](#the-need-for-stable-quality-jobs--the-key-to-a-stronger-middle-class)
+- [Transport Canada’s “Flight and Duty Rules” Reform](#transport-canadas-flight-and-duty-rules-reform)
+- [Implementing Universal Access to Necessary Medicines](#implementing-universal-access-to-necessary-medicines)
+- [Visa-Free Business and Tourism Travel for Ukrainian Citizens](#visa-free-business-and-tourism-travel-for-ukrainian-citizens)
+- [Women’s Caucus Seniors Resolution](#womens-caucus-seniors-resolution)
+      -------------------
+      # A Seniors' Ministry
  **WHEREAS** 
 
 
@@ -833,3 +871,4 @@
 * a sliding scale could be utilized where a percentage is clawed back that increases at certain levels of additional income and is zero below a certain threshold;
 
 * it can also be available only for a limited number of years so as not to trigger an unfair situation with other seniors that have the same income, however may not be getting the same GIS and OAS benefits.(National Caucus)
+    
