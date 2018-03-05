@@ -1,0 +1,16 @@
+{
+  "name": "lpc2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-documentation-generator": "^2.4.1",
+    "markdown-toc": "^1.2.0",
+    "pdf2json": "^1.1.7"
+  }
+}
