@@ -168,7 +168,9 @@
 
 * the current prohibition of buying consensual sex work does not address the underlying issues that make sex work dangerous, but rather creates a climate that makes sex workers unlikely to work with the police and be involved with more serious crimes;
 
-**BE IT RESOLVED** the Liberal Party of Canada repeal the 2014 Protection of Communities and Exploited Persons Act, begin a consultation period with those in the sex work industry and advocacy groups, and move to decriminalize consensual sex work, and the purchase of said sex work, for those over the age of 18;BE IT RESOLVEDthe Liberal Party of Canada consult not just with those involved in the sex work, but with surrounding communities to ensure that these changes ensure the safety and wellbeing of these surrounding communities and their families;
+**BE IT RESOLVED** the Liberal Party of Canada repeal the 2014 Protection of Communities and Exploited Persons Act, begin a consultation period with those in the sex work industry and advocacy groups, and move to decriminalize consensual sex work, and the purchase of said sex work, for those over the age of 18;
+
+**BE IT RESOLVED** the Liberal Party of Canada consult not just with those involved in the sex work, but with surrounding communities to ensure that these changes ensure the safety and wellbeing of these surrounding communities and their families;
 
 **BE IT FURTHER RESOLVED**that along with decriminalization the Liberal Party of Canada should look to address the true problems facing sex workers by working to increase their access to sexual health clinics, counseling and improve their relationship with local authorities.(Youth Commission)
 
@@ -372,7 +374,11 @@
 
 **BE IT RESOLVED**  the Liberal Party of Canada urge the Government of Canada to establish a “leave to study” program, which may be defined as the option of employees who have been employed with an employer (of a prescribed size) for 12 months to take a leave of absence for further study directly related to their work;  
 
-**BE IT FURTHER RESOLVED**that qualifying applicants to such a program receive financial remuneration through the Employment Insurance program for six months, with or without contribution from the employer; BE IT FURTHER RESOLVEDthat Employment and Social Development Canada shall operate the program under joint agreement with provincial ministries of labour with the goal of advancing the priorities of each province; BE IT FURTHER RESOLVEDthat the initiation of such a program may include a pilot program in each or any province or territory under Part V of the Employment Insurance Act. (Ontario)
+**BE IT FURTHER RESOLVED**that qualifying applicants to such a program receive financial remuneration through the Employment Insurance program for six months, with or without contribution from the employer; 
+
+**BE IT FURTHER RESOLVED**that Employment and Social Development Canada shall operate the program under joint agreement with provincial ministries of labour with the goal of advancing the priorities of each province; 
+
+**BE IT FURTHER RESOLVED**that the initiation of such a program may include a pilot program in each or any province or territory under Part V of the Employment Insurance Act. (Ontario)
 
  ------------------- 
 
@@ -414,7 +420,7 @@
 
 * the Commissioners, because of the title, are often confused with the many other Officers of government with “Commissioner” in the title (e.g. Commissioner of Official Languages; Information Commissioner of Canada; Commissioner of Environment and Sustainable Development etc.); 
 
-**BE IT RESOLVED** 
+**BE IT RESOLVED** :
 
 * Canada change the title of “Commissioner” to “Territorial Lieutenant Governor” which more appropriately reflects the nature of the Office and the maturity of the territories in the Canadian federation; 
 
@@ -528,7 +534,9 @@
 
 * there will be strong pressure in the coming years to export water to countries experiencing drought and a lack of drinking water (United States and the Middle East). 
 
-**BE IT RESOLVED** Canada recognize freshwater as a Canadian Heritage asset and grant the status as a resource to exercise full sovereignty;  BE IT RESOLVEDto regulate ecosystem conservation for current and future populations, steps be taken to determine federal governance with the provinces to justify nonmarket management of this resource (freshwater) and conservation of fresh water supplies.  (Quebec)
+**BE IT RESOLVED** Canada recognize freshwater as a Canadian Heritage asset and grant the status as a resource to exercise full sovereignty;  
+
+**BE IT RESOLVED** to regulate ecosystem conservation for current and future populations, steps be taken to determine federal governance with the provinces to justify nonmarket management of this resource (freshwater) and conservation of fresh water supplies.  (Quebec)
 
  ------------------- 
 
@@ -734,7 +742,9 @@
 
 **BE IT RESOLVED** the Liberal Party of Canada urge the Government of Canada to continue to introduce legislation to eliminate existing tax loopholes and to recover taxes from offshore tax havens;
 
-**BE IT FURTHER RESOLVED**the Liberal Party of Canada urge the Government of Canada to applyhigher penalties in addition to the recuperation of unpaid tax from corporations and individualsand that criminal sanctions be provided for third parties who promote offshore tax avoidance schemes to clients; BE IT FURTHER RESOLVEDthe Liberal Party of Canada urge the Government of Canada to signal clearly that existing and new legislation will be rigorously enforced to prevent tax avoidance and evasion by providing adequate and stable funding to the CRA.(British Columbia)
+**BE IT FURTHER RESOLVED**the Liberal Party of Canada urge the Government of Canada to applyhigher penalties in addition to the recuperation of unpaid tax from corporations and individualsand that criminal sanctions be provided for third parties who promote offshore tax avoidance schemes to clients; 
+
+**BE IT FURTHER RESOLVED**the Liberal Party of Canada urge the Government of Canada to signal clearly that existing and new legislation will be rigorously enforced to prevent tax avoidance and evasion by providing adequate and stable funding to the CRA.(British Columbia)
 
  ------------------- 
 
@@ -778,7 +788,7 @@
 
 * thenew rules appear to be focused on circumstances faced in southern Canada, with no understanding of the unique issues associated with northern and remote aviation.  
 
-**BE IT RESOLVED**  
+**BE IT RESOLVED** : 
 
 * Transport Canada postpone the Gazette process regarding new rules until acomprehensive system safety review is conducted to determine whether current regulations result in scenarios where safety is compromised due to pilot fatigue;
 
@@ -870,7 +880,7 @@
 
 * additional income could be needed for necessary home modification, medical procedureor support program, funeral costs, double housing needs, etc. 
 
-**BE IT RESOLVED**  
+**BE IT RESOLVED** : 
 
 * the Government allows seniors more flexibility to make additional income, without triggering a claw back in their OAS and GIS;
 
